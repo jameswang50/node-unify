@@ -1,0 +1,28 @@
+{
+  "name": "node-http",
+  "description": "node-http.",
+  "version": "0.0.4",
+  "author": "Shallker <imshallker@gmail.com>",
+  "main": "index.js",
+  "keywords": [
+    "node-http"
+  ],
+  "homepage": "https://github.com/shallker/node-http",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shallker/node-http.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shallker/node-http/issues"
+  },
+  "dependencies": {
+    "eventy": "*",
+    "bupper": "*",
+    "reges": "*"
+  },
+  "devDependencies": {
+    "simple-test": "*"
+  },
+  "scripts": {},
+  "license": "MIT"
+}
